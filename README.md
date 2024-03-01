@@ -25,6 +25,7 @@ I worked on my very own game engine in C++ using Vulkan.
 
 ## My Experience 
 You can see my experience in my [Talent Hub profile](https://create.roblox.com/talent/creators/2777945399).
+I am entrusted in programming for front page experiences. I make it my highest priority to create optimized systems with great quality.
 A brief overview of my most important contributions would be:
 - [Easy Mega Fun Obby](https://www.roblox.com/games/15844379848/Easy-Mega-Fun-Obby) (1K+ Active Players peak, responsible for all the programming and maintaining of the code repository.)
 - [Site - 17](https://www.roblox.com/games/15155247037/SCP-Site-17-Roleplay#!/game-instances) & [Area - 14](https://www.roblox.com/games/651474220/Area-14) (Responsible for chores, and code refactor)
