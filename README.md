@@ -7,7 +7,7 @@ Quick view
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,cpp,c,py,sqlite,nodejs,ts,js,visualstudio,discord,blender,aws,linux,git,github" />
+    <img src="https://skillicons.dev/icons?i=lua,cpp,c,py,sqlite,nodejs,ts,js,visualstudio,blender,aws,linux,git,github" />
   </a>
 </p>
 
