@@ -13,7 +13,7 @@ Quick view
 
 I have worked a lot in ROBLOX with custom frameworks such as: **Rojo, Knit, Roact, Promises, Matter**, and much more.
 
-But I'm not only limited to ROBLOX. I work a ton with APIs to make cool integrations for my games! I've worked on depoying JS-written bots to remote servers with Amazon AWS that interact with the ROBLOX API.
+But I'm not only limited to ROBLOX. I work a ton with APIs to make integrations for games. I've worked on depoying JS-written bots to remote servers with Amazon AWS that interact with the ROBLOX API.
 I worked on my very own game engine in C++ using Vulkan.
 
 ### [Script Examples & CV](https://github.com/m-ethods/portfolio-code-samples)
