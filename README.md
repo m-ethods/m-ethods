@@ -1,22 +1,5 @@
 ## About Me
-I'm an advanced full-stack ROBLOX developer, having worked on many big projects on the platform. I have experience with several programming languages off the platform; such as C++, Javascript, Typescript. This is my only GitHub account, being used for work and other purposes.
-
-## My Skills
-<p align="center">
-Quick view
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,cpp,c,py,sqlite,nodejs,ts,js,visualstudio,blender,aws,linux,git,github" />
-  </a>
-</p>
-
-I have worked a lot in ROBLOX with custom frameworks such as: **Rojo, Knit, Roact, Promises, Matter**, and much more.
-
-But I'm not only limited to ROBLOX. I work a ton with APIs to make integrations for games. I've worked on depoying JS-written bots to remote servers with Amazon AWS that interact with the ROBLOX API.
-I worked on my very own game engine in C++ using Vulkan.
-
-### [Script Examples & CV](https://github.com/m-ethods/portfolio-code-samples) (Very Outdated)
+I'm an advanced full-stack ROBLOX developer, having worked on many big projects on the platform. I have experience with several programming languages off the platform; such as C++ & Java. This is my only GitHub account, being used for work and other purposes.
 
 ## My Experience 
 You can see my experience in my [Talent Hub profile](https://create.roblox.com/talent/creators/2777945399).
