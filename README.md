@@ -1,5 +1,5 @@
 ## About Me
-I'm an advanced full-stack ROBLOX developer, having worked on many big projects on the platform. I have experience with several programming languages off the platform; such as C++ & Java. This is my only GitHub account, being used for work and other purposes.
+I'm an advanced full-stack ROBLOX developer, having worked on many big projects on the platform. This is my only GitHub account, being used for work and other purposes.
 
 ## My Experience 
 You can see my experience in my [Talent Hub profile](https://create.roblox.com/talent/creators/2777945399).
