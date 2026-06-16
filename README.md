@@ -5,7 +5,7 @@ I'm an advanced full-stack ROBLOX developer, having worked on many big projects 
 You can see my experience in my [Talent Hub profile](https://create.roblox.com/talent/creators/2777945399).
 I am entrusted in programming for front page experiences. I make it my highest priority to create optimized systems with great quality.
 A brief overview of my most important contributions would be:
-- [Half - Life: World](https://www.roblox.com/communities/13426157/Half-Life-World#!/about) Group Manager / Co-Owner and lead programmer.
+- [Half - Life: World](https://www.roblox.com/communities/13426157/Half-Life-World#!/about) Co-owner and lead programmer.
 - [Blackwatch-Utility](https://github.com/m-ethods/blackwatch-utility) Open-source C++ bot for my group.
 - [Site - 17](https://www.roblox.com/games/15155247037/SCP-Site-17-Roleplay#!/game-instances) & [Area - 14](https://www.roblox.com/games/651474220/Area-14) (Responsible for minor features, and code refactor)
 - [SCP: Foundation Roleplay](https://www.roblox.com/games/11975348443/SCP-Foundation-Roleplay) Responsible for many 3D models, UI code, SCP behaviour and more code
